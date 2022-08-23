@@ -7,14 +7,18 @@ In this project,we have done:
 
 Exploratory Data Analysis
 
-Understanding what type content is available in different countries
+Understanding what type content is available in different countries.
+![image](https://user-images.githubusercontent.com/46549606/186165124-49e4c43b-1157-4b8c-b638-4a63898ca415.png)
 
 Is Netflix has increasingly focusing on TV rather than movies in recent years.
+![image](https://user-images.githubusercontent.com/46549606/186164994-b257bf1e-1a07-40a1-a16d-502cff4c4014.png)
+
 
 Clustering similar content by matching text-based features
+![image](https://user-images.githubusercontent.com/46549606/186165446-d370dbbe-8325-4c6d-8fe1-3340f93cad67.png)
+
 
 # Steps Involved
-* Importing libraries
 * Exploratory Data Analysis
 * Data Preparation:
   1. Text Pre-processing
