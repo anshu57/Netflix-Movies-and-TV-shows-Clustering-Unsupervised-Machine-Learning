@@ -49,3 +49,6 @@ Clustering similar content by matching text-based features
 * K-means clustering is used to form the clusters of clusters of the content. To find out the optimal value of k, Elbow and Silhouette method was used.K=6 was appropriate value and can be visualized after clustering the content using k-means clustering.
 
 * Hierarchical clustering implementation gives perfect score of silhouette at 6 clusters,same as visualised using dendrogram.
+
+# Next Step :
+The next would be utilising the clusters made of movies to recommend the users, further we can make arecommendation engine out of it.
